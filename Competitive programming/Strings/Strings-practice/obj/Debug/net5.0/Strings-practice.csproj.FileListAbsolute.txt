@@ -1,0 +1,16 @@
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.exe
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.deps.json
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.runtimeconfig.json
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.runtimeconfig.dev.json
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.dll
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\ref\Strings-practice.dll
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\bin\Debug\net5.0\Strings-practice.pdb
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.csproj.AssemblyReference.cache
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.AssemblyInfoInputs.cache
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.AssemblyInfo.cs
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.csproj.CoreCompileInputs.cache
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.dll
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\ref\Strings-practice.dll
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.pdb
+E:\Applications\competetive-programming-practice\Competitive programming\Strings\Strings-practice\obj\Debug\net5.0\Strings-practice.genruntimeconfig.cache
